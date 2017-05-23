@@ -11,9 +11,6 @@
     <a href="https://telegram.me/Mr_JwKeR">
         <img src="http://upir.ir/951/guest/Untitled-6.png" width="150">
         
-<h3><p dir="rtl">تبچی رباتی هوشمند, بسیار ساده و البته رایگان جهت امور تبلیغاتی در تلگرام است.<br>
-ویرایش شده توسط <a href="https://telegram.me/Jwker_team">تیم جوکر</a> برپایه اخرین نسخه <a href="https://valtman.name/telegram-cli">تلگرام</a>.
-<br>
 <h3 align="right"> <strong> نصب و راه‌اندازی</strong> 🚀
 </h3>
 <hr>
