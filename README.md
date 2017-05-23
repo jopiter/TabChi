@@ -27,13 +27,8 @@
 <h4 dir="rtl">حال با توجه به شناسه ای که برای ربات جدید داده شده تبچی خود را راه‌اندازی کنید.
 <br>مثال:</h4>
 <h6 dir="rtl">در صورتی ک ردیس تنظیم نشده است آن را تنظیم کنید.</h6>
-<pre>
-<span>دستوری برای راه اندازی مجدد ردیس#</span>
-<span>sudo service redis-server restart</span>
-<span>دستوری برای راه اندازی ردیس#</span>
-<span>sudo service redis-server start</span>
-<span></span>
-<span>./tabchi-1.sh</span>
+
+<span>./TaBchi-0.sh</span>
 </pre>
 <h5 dir="rtl">توجه داشته باشید برای اولین بار که ربات را میسازید از شما شناسه عددی مدیر ربات (شما و یا هرکس که می خواهید مدیر ربات شود) ، شماره ربات و کد ورود به حساب کاربری خواسته می‌شود.
 <h6 dir="rtl"> شما می توانید با استفاده از ربات <a href="https://telegram.me/userinfobot">@userinfobot</a> شناسه عددی خود را بدست آورید.</h6>
