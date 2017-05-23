@@ -17,7 +17,7 @@
  <h4 dir="rtl">ابتدا سورس <em>تبچی</em> را کپی کرده و پیش‌زمینه‌ها را نصب کنید.</h4>
 <h6>(موارد زیر را در ترمینال وارد کنید)</h6>
 <pre>
- <span>git clone https://github.com/JwkerTeam/TaBchi.git && cd TaBchi && chmod 777 install.sh && ./install.sh</span>
+ <span>git clone https://github.com/jopiter/TaBchi.git && cd TaBchi && chmod 777 install.sh && ./install.sh</span>
 </pre>
 <h4 dir="rtl"> برای ساخت ربات جدید <strong>lua creator.lua</strong> را وارد کنید.
 </h4>
