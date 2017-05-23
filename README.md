@@ -3,13 +3,13 @@
 <h2><p align="center">سرعت 💠 دقت 💠 قدرت
 <div align="center">
     <a href="https://telegram.me/Jwker_Bot">
-        <img src="http://upir.ir/951/guest/Untitled-5.png" hspace="10" width="150">
+        <img src="http://upir.ir/951/guest/Untitled-5.png" hspace="8" width="170">
     </a>
     <a href="https://telegram.me/Jwker_team">
-        <img src="http://upir.ir/951/guest/Untitled-7.png" hspace="10" width="150">
+        <img src="http://upir.ir/951/guest/Untitled-7.png" hspace="9" width="180">
     </a>
     <a href="https://telegram.me/Mr_JwKeR">
-        <img src="http://upir.ir/951/guest/Untitled-6.png" width="150">
+        <img src="http://upir.ir/951/guest/Untitled-6.png" width="190">
         
 <h3 align="right"> <strong> نصب و راه‌اندازی</strong> 🚀
 </h3>
